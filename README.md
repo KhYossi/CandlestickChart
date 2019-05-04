@@ -1,2 +1,0 @@
-# CandlestickChart
-Created with CodeSandbox
